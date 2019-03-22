@@ -1,0 +1,88 @@
+
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  margin-bottom: 0;
+  margin-top: 0;
+  font-family: 'Mr Bedfort', cursive;
+  font-size: 75px;
+  color: #ff7a8a;
+}
+
+h2 {
+  font-family: 'Roboto Slab', serif;
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+}
+
+p{
+  margin-top: 0;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 7px;
+  color: #ff7a8a;
+  width: 5%;
+
+}
+
+/****CLASS****/
+.bottom-container {
+
+}
+.middle-container {
+
+}
+.top-container {
+  background-color: #f9f9f9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px
+
+}
+
+.pen {
+  width: 200px;
+  height: 200px;
+}
+
+.profilepic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.process {
+  width: 100px;
+  height: 100px;
+}
+
+.right-arrow {
+  width: 50px;
+  height: 50px;
+  padding-bottom: 25px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
